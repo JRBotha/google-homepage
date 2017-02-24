@@ -1,0 +1,25 @@
+
+
+.logo{
+	position: absolute;
+	top: 50%;
+	left: 50%;	
+	margin-left: -250px;
+	
+}
+
+input[type=search]{
+	padding: 10px;
+	border: 1px;
+	border-color:#ea4335; 
+	background-color: #f5f5f5;
+	border-radius: 15px;
+	width:400px;
+	position: absolute;
+	top:105%;
+	left:18%;
+	
+}
+
+
+
